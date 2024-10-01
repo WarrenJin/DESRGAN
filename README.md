@@ -60,4 +60,15 @@ We cropped the data to the same geographic region, with longitude and latitude r
 |:--:| 
 | *Visually plausible 5km precipitation forecasts (ensemble_1 only). Note the lead time changes as indicated in the left-hand panel, so is the target date in the right-hand panel* |
 
+## Citation
+If you find the code or the work helpful in your research or work, please use the following bibitem to cite..
+```
+@article{Jin.etal.DESRGAN,
+  title={Advancing Long-range Daily Precipitation Ensemble Forecasts with Deep Learning for Australia},
+  author={Jin, Huidong and Wang, Rui and Liu, Yaozhong and Shao, Quanxi},
+  journal={Journal of Hydrology},
+  year={2024},
+  publisher={Elsevier},
+  note={under review}
+}
 
